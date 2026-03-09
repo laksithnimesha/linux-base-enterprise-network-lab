@@ -1,5 +1,4 @@
 
-```markdown
 # Network Design
 
 ## Network Range
