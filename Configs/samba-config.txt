@@ -1,0 +1,5 @@
+[TechnovaShare]
+path = /srv/technova-share
+guest ok = yes
+read only = no
+browseable = yes

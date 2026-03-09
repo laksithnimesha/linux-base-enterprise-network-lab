@@ -1,0 +1,9 @@
+CREATE DATABASE technova_db;
+
+CREATE USER 'webuser'@'192.168.10.20'
+IDENTIFIED BY 'StrongPassword123';
+
+GRANT ALL PRIVILEGES ON technova_db.*
+TO 'webuser'@'192.168.10.20';
+
+FLUSH PRIVILEGES;
