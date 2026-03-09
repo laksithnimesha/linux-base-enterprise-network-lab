@@ -39,6 +39,4 @@ The environment includes DNS, Web, Database, and File servers integrated togethe
 ![Database Test](Screenshots/03.database-test.png)
 
 ### File Server Access
-![Samba Test](screenshots/samba-test.png)
-
-```
+![Samba Test](Screenshots/04.samba-test.png)
