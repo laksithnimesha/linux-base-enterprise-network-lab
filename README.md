@@ -30,7 +30,7 @@ The environment includes DNS, Web, Database, and File servers integrated togethe
 ## Infrastructure Testing
 
 ### DNS Resolution
-![DNS Test](screenshots/dns-test.png)
+![DNS Test](Screenshots/01.dns-test.png)
 
 ### Web Server Access
 ![Web Test](screenshots/web-server-test.png)
@@ -40,3 +40,5 @@ The environment includes DNS, Web, Database, and File servers integrated togethe
 
 ### File Server Access
 ![Samba Test](screenshots/samba-test.png)
+
+```
