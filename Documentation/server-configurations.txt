@@ -1,0 +1,84 @@
+# Server Configuration
+
+## DNS Server
+
+Software:
+Bind9
+
+Main Functions:
+
+- Domain name resolution
+- Forward lookup zone
+- Reverse lookup zone
+
+---
+
+## Web Server
+
+Software:
+
+Apache2
+PHP
+
+Functions:
+
+- Hosts company website
+- Connects to MariaDB database
+- Serves web application
+
+Example URL:
+
+http://web.technova.local
+
+---
+
+## Database Server
+
+Software:
+
+MariaDB
+
+Functions:
+
+- Stores application data
+- Provides database services to web server
+
+Database created:
+
+technova_db
+
+User created:
+
+webuser
+
+---
+
+## File Server
+
+Software:
+
+Samba
+
+Functions:
+
+- Network file sharing
+- Central storage server
+
+Shared folder:
+
+TechnovaShare
+
+Location:
+
+/srv/technova-share
+
+---
+
+## Client Machine
+
+Purpose:
+
+- Testing DNS resolution
+- Accessing web server
+- Accessing file server
+- Verifying infrastructure connectivity
