@@ -33,7 +33,7 @@ The environment includes DNS, Web, Database, and File servers integrated togethe
 ![DNS Test](Screenshots/01.dns-test.png)
 
 ### Web Server Access
-![Web Test](screenshots/web-server-test.png)
+![Web Test](Screenshots/02.web-server-test.png)
 
 ### Database Connectivity
 ![Database Test](screenshots/database-test.png)
