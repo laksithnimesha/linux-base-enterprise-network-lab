@@ -27,3 +27,16 @@ The environment includes DNS, Web, Database, and File servers integrated togethe
                     Client VM
                  192.168.10.100
 ```
+## Infrastructure Testing
+
+### DNS Resolution
+![DNS Test](screenshots/dns-test.png)
+
+### Web Server Access
+![Web Test](screenshots/web-server-test.png)
+
+### Database Connectivity
+![Database Test](screenshots/database-test.png)
+
+### File Server Access
+![Samba Test](screenshots/samba-test.png)
